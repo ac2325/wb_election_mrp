@@ -4,7 +4,7 @@ This repository contains an end-to-end pipeline that forecasts all 294 West Beng
 Overall Data Flow
 Stratification frame (EC voter rolls)
 ↓
-stratification_frame_cleaned.csv (66,670 demographic strata)
+/n stratification_frame_cleaned.csv (66,670 demographic strata)
 ↓
 sample_create.ipynb → sample_20k_sf.csv → sample_1–5.csv
 ↓
